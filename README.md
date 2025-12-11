@@ -1,3 +1,11 @@
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ee38d992-46e3-41c4-9d96-329d4945b6ed" />
+
+
+
+
+
+
 Topic: NIL in college fooball
 
 Overview:
@@ -7,4 +15,6 @@ Sources:
 This project used a combination of multiple different sources such as ON3 NIL valuation to get the NIL and then ESPN to add the players current team and conference.
 
 Disclaimer:
-NIL does not require players to disclose their earnings so the data set used was only the players valuation which are subject to change. The fact that is non disclosed limited the data set to only the top 100 players as the data would not be accurate beyond that point. 
+NIL does not require players to disclose their earnings so the data set used was only the players estimated valuations which are subject to change. The fact that is non disclosed limited the data set to only the top 100 players as the data would not be accurate beyond that point. 
+
+
